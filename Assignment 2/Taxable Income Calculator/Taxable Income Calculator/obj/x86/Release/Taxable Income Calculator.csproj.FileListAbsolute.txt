@@ -1,0 +1,3 @@
+C:\Users\admin\Desktop\MATC Semester I\Logic and Problem Solving\Assignment 2\Taxable Income Calculator\Taxable Income Calculator\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\admin\Desktop\MATC Semester I\Logic and Problem Solving\Assignment 2\Taxable Income Calculator\Taxable Income Calculator\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\admin\Desktop\MATC Semester I\Logic and Problem Solving\Assignment 2\Taxable Income Calculator\Taxable Income Calculator\obj\x86\Release\Taxable Income Calculator.csproj.GenerateResource.Cache

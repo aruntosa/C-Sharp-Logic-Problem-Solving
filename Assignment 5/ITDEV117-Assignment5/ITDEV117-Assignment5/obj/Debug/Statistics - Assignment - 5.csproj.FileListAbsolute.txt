@@ -1,0 +1,16 @@
+P:\ITDEV117-Assignment5\ITDEV117-Assignment5\bin\Debug\ITDEV117-Assignment5.exe.config
+P:\ITDEV117-Assignment5\ITDEV117-Assignment5\bin\Debug\ITDEV117-Assignment5.exe
+P:\ITDEV117-Assignment5\ITDEV117-Assignment5\bin\Debug\ITDEV117-Assignment5.pdb
+P:\ITDEV117-Assignment5\ITDEV117-Assignment5\obj\Debug\ITDEV117_Assignment5.Form1.resources
+P:\ITDEV117-Assignment5\ITDEV117-Assignment5\obj\Debug\ITDEV117_Assignment5.Properties.Resources.resources
+P:\ITDEV117-Assignment5\ITDEV117-Assignment5\obj\Debug\Statistics - Assignment - 5.csproj.GenerateResource.Cache
+P:\ITDEV117-Assignment5\ITDEV117-Assignment5\obj\Debug\ITDEV117-Assignment5.exe
+P:\ITDEV117-Assignment5\ITDEV117-Assignment5\obj\Debug\ITDEV117-Assignment5.pdb
+C:\Users\admin\Desktop\NO\MATC Semester I\Logic and Problem Solving\Assignment 5\ITDEV117-Assignment5\ITDEV117-Assignment5\bin\Debug\ITDEV117-Assignment5.exe.config
+C:\Users\admin\Desktop\NO\MATC Semester I\Logic and Problem Solving\Assignment 5\ITDEV117-Assignment5\ITDEV117-Assignment5\obj\Debug\ITDEV117-Assignment5.exe
+C:\Users\admin\Desktop\NO\MATC Semester I\Logic and Problem Solving\Assignment 5\ITDEV117-Assignment5\ITDEV117-Assignment5\obj\Debug\ITDEV117-Assignment5.pdb
+C:\Users\admin\Desktop\NO\MATC Semester I\Logic and Problem Solving\Assignment 5\ITDEV117-Assignment5\ITDEV117-Assignment5\bin\Debug\ITDEV117-Assignment5.exe
+C:\Users\admin\Desktop\NO\MATC Semester I\Logic and Problem Solving\Assignment 5\ITDEV117-Assignment5\ITDEV117-Assignment5\bin\Debug\ITDEV117-Assignment5.pdb
+C:\Users\admin\Desktop\NO\MATC Semester I\Logic and Problem Solving\Assignment 5\ITDEV117-Assignment5\ITDEV117-Assignment5\obj\Debug\ITDEV117_Assignment5.Form1.resources
+C:\Users\admin\Desktop\NO\MATC Semester I\Logic and Problem Solving\Assignment 5\ITDEV117-Assignment5\ITDEV117-Assignment5\obj\Debug\ITDEV117_Assignment5.Properties.Resources.resources
+C:\Users\admin\Desktop\NO\MATC Semester I\Logic and Problem Solving\Assignment 5\ITDEV117-Assignment5\ITDEV117-Assignment5\obj\Debug\Statistics - Assignment - 5.csproj.GenerateResource.Cache

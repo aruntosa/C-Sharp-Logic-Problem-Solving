@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2012\Projects\Week7_Assignment\Week7_Assignment\bin\Debug\Week7_Assignment.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\Week7_Assignment\Week7_Assignment\bin\Debug\Week7_Assignment.exe
+c:\users\admin\documents\visual studio 2012\Projects\Week7_Assignment\Week7_Assignment\bin\Debug\Week7_Assignment.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Week7_Assignment\Week7_Assignment\obj\Debug\Week7_Assignment.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\Week7_Assignment\Week7_Assignment\obj\Debug\Week7_Assignment.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\Week7_Assignment\Week7_Assignment\obj\Debug\Week7_Assignment.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\Week7_Assignment\Week7_Assignment\obj\Debug\Week7_Assignment.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\Week7_Assignment\Week7_Assignment\obj\Debug\Week7_Assignment.exe
+c:\users\admin\documents\visual studio 2012\Projects\Week7_Assignment\Week7_Assignment\obj\Debug\Week7_Assignment.pdb
+C:\Users\admin\Desktop\NO\MATC Semester I\Logic and Problem Solving\Assignment 6\Week7_Assignment\Week7_Assignment\bin\Debug\Week7_Assignment.exe.config
+C:\Users\admin\Desktop\NO\MATC Semester I\Logic and Problem Solving\Assignment 6\Week7_Assignment\Week7_Assignment\obj\Debug\Week7_Assignment.exe
+C:\Users\admin\Desktop\NO\MATC Semester I\Logic and Problem Solving\Assignment 6\Week7_Assignment\Week7_Assignment\obj\Debug\Week7_Assignment.pdb

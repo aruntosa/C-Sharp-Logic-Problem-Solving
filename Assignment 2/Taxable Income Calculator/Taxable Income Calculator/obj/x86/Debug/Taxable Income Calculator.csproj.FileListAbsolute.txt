@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\MATC Semester I\Logic and Problem Solving\Assignment 2\Taxable Income Calculator\Taxable Income Calculator\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\admin\Desktop\MATC Semester I\Logic and Problem Solving\Assignment 2\Taxable Income Calculator\Taxable Income Calculator\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\admin\Desktop\MATC Semester I\Logic and Problem Solving\Assignment 2\Taxable Income Calculator\Taxable Income Calculator\obj\x86\Debug\Taxable Income Calculator.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\MATC Semester I\Logic and Problem Solving\Assignment 2\Taxable Income Calculator\Taxable Income Calculator\obj\x86\Debug\Taxable Income Calculator.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\MATC Semester I\Logic and Problem Solving\Assignment 2\Taxable Income Calculator\Taxable Income Calculator\bin\Debug\Taxable Income Calculator.exe
+C:\Users\admin\Desktop\MATC Semester I\Logic and Problem Solving\Assignment 2\Taxable Income Calculator\Taxable Income Calculator\bin\Debug\Taxable Income Calculator.pdb
+C:\Users\admin\Desktop\MATC Semester I\Logic and Problem Solving\Assignment 2\Taxable Income Calculator\Taxable Income Calculator\obj\x86\Debug\Taxable Income Calculator.exe
+C:\Users\admin\Desktop\MATC Semester I\Logic and Problem Solving\Assignment 2\Taxable Income Calculator\Taxable Income Calculator\obj\x86\Debug\Taxable Income Calculator.pdb
+D:\Private\MATC Semester I\Logic and Problem Solving\Assignment 2\Taxable Income Calculator\Taxable Income Calculator\obj\x86\Debug\Taxable Income Calculator.exe
+D:\Private\MATC Semester I\Logic and Problem Solving\Assignment 2\Taxable Income Calculator\Taxable Income Calculator\obj\x86\Debug\Taxable Income Calculator.pdb
